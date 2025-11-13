@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore system files
+.DS_Store
+
+# Ignore PyCache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE files
+.vscode/
+
+# Ignore credentials
+db_settings.json

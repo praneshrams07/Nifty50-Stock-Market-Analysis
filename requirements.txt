@@ -1,0 +1,9 @@
+pandas
+numpy
+sqlalchemy
+mysql-connector-python
+PyYAML
+matplotlib
+plotly
+streamlit
+openpyxl
