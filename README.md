@@ -30,7 +30,7 @@ Nifty50-Stock-Market-Analysis/
 │   └── app.py                 → Streamlit Dashboard
 │
 ├── dataset/                   → Raw and cleaned data files
-├── db_settings.json           → Auto-generated MySQL credentials
+├── db_settings.json           → MySQL credentials
 ├── requirements.txt           → Python dependencies
 └── README.md
 ```
